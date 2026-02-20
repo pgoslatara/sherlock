@@ -1,9 +1,11 @@
 APClips
 Archive.org
+Code Snippet Wiki
 DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
+Hashnode
 Hubski
 LessWrong
 LushStories
@@ -22,7 +24,5 @@ TryHackMe
 Weblate
 YandexMusic
 mercadolivre
-opennet
 phpRU
 svidbook
-xHamster
