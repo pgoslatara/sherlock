@@ -1,13 +1,15 @@
 APClips
-Apple Discussions
 Archive.org
+CGTrader
 DeviantArt
+Eintracht Frankfurt Forum
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
 LessWrong
+LiveJournal
 LushStories
 Minecraft
 Patched
@@ -29,4 +31,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
