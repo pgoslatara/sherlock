@@ -1,17 +1,14 @@
 APClips
 Archive.org
-CGTrader
+Codolio
 DeviantArt
-Eintracht Frankfurt Forum
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
 LessWrong
-LiveJournal
 LushStories
-Minecraft
 Patched
 PocketStars
 Realmeye
@@ -27,7 +24,9 @@ Trovo
 TryHackMe
 Weblate
 YandexMusic
+eintracht
 mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
