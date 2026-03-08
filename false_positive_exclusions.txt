@@ -1,14 +1,17 @@
 APClips
 Archive.org
 Codolio
-Eintracht Frankfurt Forum
+DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
+GitHub
 Hashnode
 Hubski
+Itch.io
 LessWrong
 LushStories
+Minecraft
 Patched
 PocketStars
 Rarible
@@ -22,11 +25,12 @@ Smule
 Splice
 Spotify
 Strava
+Trovo
 TryHackMe
 Weblate
 YandexMusic
 mercadolivre
-nnRU
+minds
 opennet
 phpRU
 svidbook
