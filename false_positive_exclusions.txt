@@ -1,17 +1,15 @@
 APClips
 Archive.org
+Carbonmade
 Codolio
 DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
-GitHub
 Hashnode
 Hubski
-Itch.io
 LessWrong
 LushStories
-Minecraft
 Patched
 PocketStars
 Rarible
@@ -30,7 +28,6 @@ TryHackMe
 Weblate
 YandexMusic
 mercadolivre
-minds
 opennet
 phpRU
 svidbook
