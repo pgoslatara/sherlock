@@ -1,11 +1,12 @@
 APClips
 Archive.org
-Carbonmade
 Codolio
+Cults3D
 DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
+Gumroad
 Hashnode
 Hubski
 LessWrong
@@ -20,14 +21,17 @@ Scribd
 Shelf
 SlideShare
 Smule
+SoylentNews
 Splice
 Spotify
 Strava
 Trovo
 TryHackMe
 Weblate
+Wordnik
 YandexMusic
 mercadolivre
+minds
 opennet
 phpRU
 svidbook
