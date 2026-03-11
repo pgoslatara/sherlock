@@ -1,12 +1,10 @@
 APClips
 Archive.org
 Codolio
-Cults3D
 DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
-Gumroad
 Hashnode
 Hubski
 LessWrong
@@ -17,21 +15,19 @@ Rarible
 Realmeye
 Reddit
 RocketTube
+RuneScape
 Scribd
 Shelf
 SlideShare
 Smule
-SoylentNews
 Splice
 Spotify
 Strava
 Trovo
 TryHackMe
 Weblate
-Wordnik
 YandexMusic
 mercadolivre
-minds
 opennet
 phpRU
 svidbook
