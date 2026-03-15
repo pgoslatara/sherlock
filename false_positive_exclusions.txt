@@ -1,10 +1,10 @@
 APClips
 Archive.org
+Audiojungle
 Codolio
-DeviantArt
+GNOME VCS
 GeeksforGeeks
 Giphy
-GitHub
 Hashnode
 Hubski
 Itch.io
@@ -23,7 +23,6 @@ SlideShare
 Smule
 Splice
 Spotify
-Trovo
 TryHackMe
 Weblate
 YandexMusic
