@@ -1,16 +1,13 @@
 APClips
 Archive.org
-Audiojungle
 Codolio
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-Itch.io
 LessWrong
 LushStories
-Minecraft
 Patched
 PocketStars
 Rarible
@@ -27,6 +24,5 @@ TryHackMe
 Weblate
 YandexMusic
 mercadolivre
-opennet
 phpRU
 svidbook
