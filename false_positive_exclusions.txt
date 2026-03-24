@@ -6,10 +6,8 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-Itch.io
 LessWrong
 LushStories
-Minecraft
 Patched
 PocketStars
 Pornhub
@@ -28,7 +26,7 @@ TryHackMe
 Weblate
 YandexMusic
 mercadolivre
-minds
 opennet
 phpRU
 svidbook
+xHamster
