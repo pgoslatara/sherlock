@@ -2,18 +2,15 @@
 APClips
 Archive.org
 Codolio
-DeviantArt
+Cults3D
 Discord.bio
-Eintracht Frankfurt Forum
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
 LessWrong
-LushStories
 Patched
 PocketStars
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -24,7 +21,6 @@ SlideShare
 Smule
 Splice
 Spotify
-Trovo
 TryHackMe
 Weblate
 YandexMusic
