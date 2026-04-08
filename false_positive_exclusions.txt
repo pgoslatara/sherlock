@@ -3,15 +3,14 @@ APClips
 Archive.org
 Bandcamp
 Codolio
-DeviantArt
 Discord.bio
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
 LessWrong
+Linktree
 LushStories
-Minecraft
 Patched
 PocketStars
 Rarible
@@ -22,10 +21,8 @@ Scribd
 Shelf
 SlideShare
 Smule
-SoylentNews
 Splice
 Spotify
-Trovo
 TryHackMe
 Weblate
 YandexMusic
