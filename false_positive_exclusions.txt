@@ -14,7 +14,6 @@ LushStories
 Patched
 PocketStars
 Pornhub
-Rarible
 Realmeye
 Reddit
 RocketTube
@@ -31,6 +30,8 @@ Weblate
 YandexMusic
 interpals
 mercadolivre
+nnRU
 opennet
 phpRU
 svidbook
+xHamster
