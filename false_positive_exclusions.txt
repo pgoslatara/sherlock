@@ -1,16 +1,14 @@
 7Cups
 APClips
+Academia.edu
 Archive.org
 Bandcamp
-BoardGameGeek
-Chess
 Codolio
 Cults3D
 DeviantArt
 Discord.bio
 GeeksforGeeks
 Giphy
-GitHub
 Hashnode
 Hubski
 LessWrong
@@ -34,6 +32,7 @@ Weblate
 YandexMusic
 interpals
 mercadolivre
+minds
 opennet
 phpRU
 svidbook
