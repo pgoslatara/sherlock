@@ -4,6 +4,7 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Chess
 Codolio
 DeviantArt
 Discord.bio
@@ -12,7 +13,9 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
+LessWrong
 LushStories
+Minecraft
 Patched
 Rarible
 Realmeye
@@ -24,7 +27,6 @@ SlideShare
 Smule
 Splice
 Spotify
-Strava
 Trovo
 TryHackMe
 Velomania
