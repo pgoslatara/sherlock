@@ -4,7 +4,6 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Chess
 Codolio
 DeviantArt
 Discord.bio
@@ -15,14 +14,15 @@ Hashnode
 Hubski
 LessWrong
 LushStories
-Minecraft
 Patched
+Rajce.net
 Rarible
 Realmeye
 Reddit
 RocketTube
 Scribd
 Shelf
+Slack
 SlideShare
 Smule
 Splice
