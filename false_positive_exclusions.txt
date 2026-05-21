@@ -1,11 +1,10 @@
 7Cups
-APClips
 Airliners
 Apple Discussions
 Archive.org
 Bandcamp
 Codolio
-DEV Community
+DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
@@ -14,7 +13,6 @@ Hashnode
 Hubski
 LessWrong
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
