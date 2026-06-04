@@ -1,5 +1,6 @@
 7Cups
 Airliners
+Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
@@ -11,8 +12,6 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-LessWrong
-OurDJTalk
 Patched
 Rarible
 Realmeye
