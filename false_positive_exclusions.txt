@@ -5,7 +5,6 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Chess
 Codolio
 DeviantArt
 Discord.bio
@@ -32,6 +31,7 @@ Trovo
 TryHackMe
 Velomania
 Weblate
+Wordnik
 YandexMusic
 authorSTREAM
 dailykos
@@ -41,3 +41,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
