@@ -4,6 +4,8 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+Blogger
+CGTrader
 Codolio
 DeviantArt
 Discord.bio
@@ -11,10 +13,10 @@ Envato Forum
 GeeksforGeeks
 Giphy
 Hashnode
+Houzz
 Hubski
-Itch.io
 LessWrong
-LiveJournal
+Minecraft
 Odysee
 Patched
 Rarible
@@ -34,7 +36,6 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
-hunting
 igromania
 interpals
 mercadolivre
