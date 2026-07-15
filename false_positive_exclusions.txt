@@ -16,10 +16,7 @@ Houzz
 Hubski
 LessWrong
 Odysee
-OurDJTalk
 PCGamer
-Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -30,6 +27,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Star Citizen
 Trovo
 TryHackMe
 Velomania
