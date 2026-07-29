@@ -4,16 +4,19 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+Blogger
 Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
-Dribbble
 Envato Forum
+F3.cool
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
+Instapaper
+Itch.io
 LessWrong
 Odysee
 PCGamer
@@ -23,7 +26,9 @@ Realmeye
 Reddit
 Replit.com
 RocketTube
+Scribd
 Shelf
+Signal
 SlideShare
 Splice
 Spotify
@@ -37,7 +42,6 @@ dailykos
 igromania
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
