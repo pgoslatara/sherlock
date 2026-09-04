@@ -5,16 +5,13 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-BoardGameGeek
 Championat
 Chatujme.cz
 ChaturBate
-Chess
 Codolio
 DeviantArt
 Discord.bio
 Envato Forum
-F3.cool
 GeeksforGeeks
 Giphy
 Hashnode
@@ -23,7 +20,6 @@ Hubski
 Instapaper
 Minecraft
 ObservableHQ
-Odysee
 PCGamer
 Pornhub
 Rarible
