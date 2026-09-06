@@ -18,11 +18,12 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Minecraft
+LiveJournal
 ObservableHQ
 Odysee
 PCGamer
 Pornhub
+Rarible
 Realmeye
 Reddit
 ReverbNation
@@ -37,6 +38,7 @@ Trovo
 TryHackMe
 Velomania
 Weblate
+Wordnik
 YandexMusic
 authorSTREAM
 dailykos
