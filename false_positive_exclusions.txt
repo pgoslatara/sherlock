@@ -19,6 +19,7 @@ Houzz
 Hubski
 Instapaper
 ObservableHQ
+Odysee
 PCGamer
 Pornhub
 Rarible
@@ -31,6 +32,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
