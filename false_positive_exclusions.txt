@@ -20,9 +20,7 @@ Houzz
 Hubski
 Instapaper
 Linktree
-Minecraft
 ObservableHQ
-Odysee
 PCGamer
 Rarible
 Realmeye
@@ -34,7 +32,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trovo
 TryHackMe
 Velomania
 Weblate
