@@ -2,9 +2,9 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Carrd
 Championat
 Chatujme.cz
+Chess
 Codolio
 DeviantArt
 Discord.bio
@@ -37,6 +37,7 @@ authorSTREAM
 dailykos
 fixya
 hunting
+igromania
 interpals
 mercadolivre
 opennet
