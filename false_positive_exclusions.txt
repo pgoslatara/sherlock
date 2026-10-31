@@ -14,10 +14,10 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
+Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -28,7 +28,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
 Vero
 YandexMusic
@@ -42,4 +41,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
