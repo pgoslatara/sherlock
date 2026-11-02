@@ -3,6 +3,7 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
+Blogger
 Championat
 Chatujme.cz
 Codolio
@@ -11,13 +12,13 @@ Discord.bio
 GaiaOnline
 GeeksforGeeks
 HackerNews
+HackerRank
 Hashnode
 Hubski
 Instapaper
 ObservableHQ
 Odysee
 PCGamer
-Rarible
 Realmeye
 Reddit
 ReverbNation
@@ -29,8 +30,8 @@ Splice
 Spotify
 Trakt
 TryHackMe
+Velomania
 Vero
-Wordnik
 YandexMusic
 authorSTREAM
 dailykos
