@@ -1,13 +1,17 @@
+APClips
 Airliners
 Apple Developer
+Apple Discussions
 Archive.org
+BabyRu
 Championat
 Chatujme.cz
 Codolio
-DeviantArt
 Discord.bio
 GaiaOnline
 GeeksforGeeks
+Gravatar
+Gumroad
 HackerNews
 Hashnode
 Hubski
@@ -15,6 +19,7 @@ Instapaper
 ObservableHQ
 Odysee
 PCGamer
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -33,10 +38,13 @@ YandexMusic
 authorSTREAM
 dailykos
 fixya
+furaffinity
 hunting
+igromania
 interpals
 mercadolivre
 opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
