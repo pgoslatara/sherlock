@@ -1,9 +1,8 @@
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Audiojungle
+Blogger
 Championat
 Chatujme.cz
 Codolio
@@ -11,13 +10,10 @@ DeviantArt
 Discord.bio
 GaiaOnline
 GeeksforGeeks
-GitHub
 HackerNews
 Hashnode
 Hubski
 Instapaper
-Itch.io
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -26,7 +22,6 @@ Realmeye
 Reddit
 ReverbNation
 RocketTube
-RuneScape
 Scribd
 Shelf
 SlideShare
@@ -47,4 +42,3 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
-xHamster
