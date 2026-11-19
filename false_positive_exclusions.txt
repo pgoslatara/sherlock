@@ -1,8 +1,9 @@
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Championat
+Blogger
 Chatujme.cz
 Codolio
 DeviantArt
@@ -13,9 +14,11 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
+LibraryThing
 Linktree
 ObservableHQ
 Odysee
+OurDJTalk
 PCGamer
 Rarible
 Realmeye
